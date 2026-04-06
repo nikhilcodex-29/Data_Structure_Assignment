@@ -1,9 +1,9 @@
-#include <stdio.h>
+// #include <stdio.h>
 
-#define MAX 5
+// #define MAX 5
 
-int queue[MAX];
-int front = -1, rear = -1;
+// int queue[MAX];
+// int front = -1, rear = -1;
 
 // Enqueue
 // void enqueue(int x) {
